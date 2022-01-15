@@ -8,4 +8,6 @@ In the Google Colabs, you can use Python to perform preprocessing for a body of 
 This event was created and organized by the following people (listed in alphebtical order by last name): Maria Balaet, Danielle Kurtin, Yorguin Mantilla Ramos, Violeta Menendez Gonzalez, Constantin Orasan, Roonak Rezvani, Eliana Salas Villa, and Zhaoying Yu
 
 
-[NLPAdvert.pdf](https://github.com/daniellekurtin/NLP_MiniHack/files/7874736/NLPAdvert.pdf)
+![image](https://user-images.githubusercontent.com/45391054/149618282-c4bf23c6-bf7f-43fe-8781-5c7ad9070f49.png)
+
+
