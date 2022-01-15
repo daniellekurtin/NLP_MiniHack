@@ -1,4 +1,4 @@
-# CodingAnOpenScienceSong
+# Natural lanugage processing (NLP) workshop
 
 Hello! This repository stores the code and slides for a two-day Mini Hack that taught participants what NLP is, how to conduct preprocessing and NLP, and how to evaluate the outputs. The workshop is coded in Python, and is pitched for those with minimal coding experience and no NLP experience. There are slides and activities embedded within the Colab, to encourage interaction with the code.
 
