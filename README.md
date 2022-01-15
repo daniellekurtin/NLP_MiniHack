@@ -6,3 +6,6 @@ Hello! This repository stores the code and slides for a two-day Mini Hack that t
 In the Google Colabs, you can use Python to perform preprocessing for a body of text- in this case, a small corpus of research papers on open and reproducble science. Then, you can use NLP to extract the themes uniting the papers. 
 
 This event was created and organized by the following people (listed in alphebtical order by last name): Maria Balaet, Danielle Kurtin, Yorguin Mantilla Ramos, Violeta Menendez Gonzalez, Constantin Orasan, Roonak Rezvani, Eliana Salas Villa, and Zhaoying Yu
+
+
+[NLPAdvert.pdf](https://github.com/daniellekurtin/NLP_MiniHack/files/7874736/NLPAdvert.pdf)
