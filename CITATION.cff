@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software or tutorial, please cite it as below."
+authors:
+
+- family-names: "Kurtin"
+  given-names: "Danielle"
+  orcid: "https://orcid.org/0000-0001-5368-6737"
+
+- family-names: "Orasan"
+  given-names: "Constantin"  
+
+- family-names: "Menendez Gonzalez"
+  given-names: "Violeta"
+
+- family-names: "Mantilla Ramos"
+  given-names: "Yorguin"
+  
+- family-names: "Balaet"
+  given-names: "Maria"
+  
+- family-names: "Rezvani"
+  given-names: "Roonak"
+  
+title: "Natural Language Processing Mini Hack"
+version: 1.0.0
+date-released: 2022-01-15
+url: "https://github.com/daniellekurtin/NLP_MiniHack"
