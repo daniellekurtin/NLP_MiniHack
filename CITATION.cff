@@ -8,6 +8,7 @@ authors:
 
 - family-names: "Orasan"
   given-names: "Constantin"  
+  orcd: "https://orcid.org/0000-0003-2067-8890"
 
 - family-names: "Menendez Gonzalez"
   given-names: "Violeta"
@@ -18,6 +19,7 @@ authors:
   
 - family-names: "Balaet"
   given-names: "Maria"
+  orcd: "https://orcid.org/0000-0002-0562-6139"
   
 - family-names: "Rezvani"
   given-names: "Roonak"
