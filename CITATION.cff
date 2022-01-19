@@ -29,15 +29,15 @@ preferred-citation:
 - family-names: "Zhaoying"
   given-names: "Yu"
 
-  title: "Natural Language Processing Mini Hack"
-  version: 1.0.0
-  date-released: 2022-01-17
-  url: "https://f1000research.com/slides/11-48"
-  doi: 10.7490/f1000research.1118905.1
-  journal: "F1000Research"
-  day: 17
-  month: 1
-  year: 2022
-  start: 11 # First page number
-  end: 48 # Last page number
+title: "Natural Language Processing Mini Hack"
+version: 1.0.0
+date-released: 2022-01-17
+url: "https://f1000research.com/slides/11-48"
+doi: 10.7490/f1000research.1118905.1
+journal: "F1000Research"
+day: 17
+month: 1
+year: 2022
+start: 11 # First page number
+end: 48 # Last page number
 
